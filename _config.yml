@@ -30,11 +30,10 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: jordanosborn
+# twitter: jordanosborn0
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: jordanosborn
 #youtube: myyoutube
 #spotify: myspotify
 github: jordanosborn
@@ -48,7 +47,8 @@ authors:
         bio: 
         external-image: false
         picture: assets/images/logo.jpg
-        #twitter: johndoe
+        twitter: jordanosborn0
+        linkedin: jordanosborn
         
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,7 +76,7 @@ show-tags: true
 related: true
 
 # show next & prev links in blog post?
-blog-nav-links: false
+blog-nav-links: true
 
 # show author block at the end of a post ?
 show-author: true
