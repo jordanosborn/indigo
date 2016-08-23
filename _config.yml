@@ -1,6 +1,6 @@
 # main text of home
 name: Evolve Software
-bio: A Man who travels the world eating noodles
+bio: Software
 
 # twitter summary info
 description: 
@@ -30,24 +30,24 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mytwitter
+twitter: jordanosborn
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: https://github.com/jordanosborn
-medium: medium
-vimeo: myvimeo
-#email: myemail@gmail.com
+linkedin: jordanosborn
+#youtube: myyoutube
+#spotify: myspotify
+github: jordanosborn
+#medium: medium
+#vimeo: myvimeo
+email: evolvesoftware0@gmail.com
 
 authors:
     jordanosborn:
         name: Jordan Osborn
         bio: 
         external-image: false
-        #picture: assets/images/profile.jpg
+        picture: assets/images/logo.jpg
         #twitter: johndoe
         
 # do you want a larger site? change the option below
